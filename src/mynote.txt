@@ -1,0 +1,6 @@
+            <form action="https://formspree.io/f/mqkjrdgq" method="post">
+                <input type="text" name="username" placeholder='enter your name' required autoComplete='off' />
+                <input type="email" name="email" placeholder='enter your email' required autoComplete='off' />
+                <textarea name="message" autoComplete='off' placeholder='messase' required ></textarea>
+                <input type="submit" value="send" />
+            </form>
